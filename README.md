@@ -3,7 +3,7 @@
 Deploy locally with mdbook:
 
 ```console
-# in case you don't have it
+# in case you do not have it
 cargo install mdbook
 
 mdbook serve --port 6969 --open
